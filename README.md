@@ -9,7 +9,7 @@ The objective of this project is to provide an interface that allows to a simple
 Here we go!
 
 > Note: This is a project based on [this one](https://github.com/martinezalina/streamlit-docker).
-> The difference is that the latter was used _docker compose_. Why?... This variant, among other things, allows us to see the results of the code while we are coding without the need to do a ´docker ps´, ´docker stop container id´, ´docker build´, etc. In other words, it saves us _a lot of time_.
+> The difference is here I used _docker compose_. Why?... This variant, among other things, allows us to see the results of the code while we are coding without the need to do a ´docker ps´, ´docker stop container id´, ´docker build´, etc. In other words, it saves us _a lot of time_.
 
 ### Run the app
 
