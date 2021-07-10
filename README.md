@@ -1,6 +1,6 @@
 # Dockerized Streamlit App
 
-> Prototyping a user interface with Streamlit and docker-compose
+## Prototyping a user interface with Streamlit and docker-compose
 
 Sometimes we need to resolve very quickly a delivery or we have to validate a protopyte.
 
@@ -11,7 +11,7 @@ Here we go!
 > Note: This is a project based on [this one](https://github.com/martinezalina/streamlit-docker).
 > The difference is that the latter was used _docker compose_. Why?... This variant, among other things, allows us to see the results of the code while we are coding without the need to do a ´docker ps´, ´docker stop container id´, ´docker build´, etc. In other words, it saves us _a lot of time_.
 
-## Run the app
+### Run the app
 
 The first time the project is used, the following commands should be run:
 
