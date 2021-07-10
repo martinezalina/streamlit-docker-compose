@@ -1,6 +1,6 @@
 # Dockerized Streamlit App
 
-## Prototyping a user interface with Streamlit and docker-compose
+### Prototyping a user interface with Streamlit and docker-compose
 
 Sometimes we need to resolve very quickly a delivery or we have to validate a protopyte.
 
